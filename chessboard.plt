@@ -1,6 +1,6 @@
 set terminal svg dynamic font "Courier,12" linewidth 1 background "white"
 set datafile sep '\t'
-set output "plot.svg"
+set output "chessboard.svg"
 
 unset key
 unset border
@@ -159,5 +159,41 @@ set y2tics 1,1,8
 # Using the data to generate the text for creating the squares for the chessboard
 #plot $DATA using (0):1:(sprintf( "set obj %.0f rect from %.1f,%.1f to %.1f,%.1f fc rgbcolor \"%s\"" , $1 , $2 - 0.5 , $3 - 0.5 , $2 + 0.5 , $3 + 0.5 , chessboard( $2 , $3 ) ) ) with labels notitle
 
+# 2654 through 265F (White KQRBNP, Black KQRBNP) in column/row order
+$PIECES << EOD
+1	1	2656
+2	1	2658
+3	1	2657
+4	1	2655
+5	1	2654
+6	1	2657
+7	1	2658
+8	1	2656
+1	2	2659
+2	2	2659
+3	2	2659
+4	2	2659
+5	2	2659
+6	2	2659
+7	2	2659
+8	2	2659
+1	7	265F
+2	7	265F
+3	7	265F
+4	7	265F
+5	7	265F
+6	7	265F
+7	7	265F
+8	7	265F
+1	8	265C
+2	8	265E
+3	8	265D
+4	8	265B
+5	8	265A
+6	8	265D
+7	8	265E
+8	8	265C
+EOD
+
 # An example plot
-plot $DATA using (1):(1) axes x1y2 with points pt 7 lc rgbcolor "red" notitle
+plot $PIECES using 1:2:(sprintf( "\U+%s" , stringcolumn(3) )) with labels font "Courier,36" notitle
