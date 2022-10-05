@@ -39,11 +39,11 @@ $YELLOW << EOD
 EOD
 
 # stones have 11-inch diameter and smaller colored top
-plot (-7-9.5/12.0),(t*40-18) with lines lc rgbcolor "black" lw 1 title "Boundary",\
+plot (t*(15+7/12.0)-((15+7/12.0)/2.0)),(21) with lines lc rgbcolor "red" lw 4 dt 1 title "Hog Line",\
+	(-7-9.5/12.0),(t*40-18) with lines lc rgbcolor "black" lw 1 title "Boundary",\
 	(7+9.5/12.0),(t*40-18) with lines lc rgbcolor "black" lw 1 title "Boundary",\
 	(t*(15+7/12.0)-((15+7/12.0)/2.0)),(-18) with lines lc rgbcolor "black" lw 1 title "Boundary",\
 	(t*(15+7/12.0)-((15+7/12.0)/2.0)),(-6) with lines lc rgbcolor "black" lw 1 title "Back Line",\
-	(t*(15+7/12.0)-((15+7/12.0)/2.0)),(21) with lines lc rgbcolor "red" lw 4 dt 1 title "Hog Line",\
 	$RED using (0):(0):(0) with circles fs pattern notitle,\
 	"" using (0):(0):(6) with circles lc rgbcolor "red" fs pattern title "12-Foot Circle",\
 	"" using (0):(0):(4) with circles lc rgbcolor "white" fs pattern title "8-Foot Circle",\
