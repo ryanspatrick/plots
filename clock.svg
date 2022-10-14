@@ -102,6 +102,46 @@
 	</g>
 	<g id="gnuplot_plot_3" ><title>gnuplot_plot_3</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(370.24,121.16)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x2160;</tspan></text>
+	</g>
+	<g transform="translate(423.20,174.12)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x2161;</tspan></text>
+	</g>
+	<g transform="translate(442.59,246.47)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x2162;</tspan></text>
+	</g>
+	<g transform="translate(423.20,318.81)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x2163;</tspan></text>
+	</g>
+	<g transform="translate(370.24,371.77)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x2164;</tspan></text>
+	</g>
+	<g transform="translate(297.89,391.16)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x2165;</tspan></text>
+	</g>
+	<g transform="translate(225.55,371.77)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x2166;</tspan></text>
+	</g>
+	<g transform="translate(172.59,318.81)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x2167;</tspan></text>
+	</g>
+	<g transform="translate(153.20,246.46)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x2168;</tspan></text>
+	</g>
+	<g transform="translate(172.59,174.12)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x2169;</tspan></text>
+	</g>
+	<g transform="translate(225.55,121.16)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x216A;</tspan></text>
+	</g>
+	<g transform="translate(297.90,101.77)" stroke="none" fill="black" font-family="Courier" font-size="18.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >&#x216B;</tspan></text>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_4" ><title>gnuplot_plot_4</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<use xlink:href='#gpPt5' transform='translate(403.63,57.47) scale(4.50)' color='rgb(  0,   0,   0)'/>
 	<use xlink:href='#gpPt5' transform='translate(481.04,134.88) scale(4.50)' color='rgb(  0,   0,   0)'/>
 	<use xlink:href='#gpPt5' transform='translate(509.37,240.62) scale(4.50)' color='rgb(  0,   0,   0)'/>
@@ -116,7 +156,7 @@
 	<use xlink:href='#gpPt5' transform='translate(297.90,29.14) scale(4.50)' color='rgb(  0,   0,   0)'/>
 </g>
 	</g>
-	<g id="gnuplot_plot_4" ><title>gnuplot_plot_4</title>
+	<g id="gnuplot_plot_5" ><title>gnuplot_plot_5</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<use xlink:href='#gpPt5' transform='translate(320.00,30.30) scale(2.25)' color='rgb(  0,   0,   0)'/>
 	<use xlink:href='#gpPt5' transform='translate(341.86,33.76) scale(2.25)' color='rgb(  0,   0,   0)'/>
@@ -180,37 +220,51 @@
 	<use xlink:href='#gpPt5' transform='translate(297.90,29.14) scale(2.25)' color='rgb(  0,   0,   0)'/>
 </g>
 	</g>
-	<g id="gnuplot_plot_5" ><title>gnuplot_plot_5</title>
+	<g id="gnuplot_plot_6" ><title>gnuplot_plot_6</title>
 <g fill="none" color="#FFFFFF" stroke="rgb(  0,   0,   0)" stroke-width="3.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="3.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="3.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(  0,   0,   0)'  d='M297.90,240.61 L354.01,361.82  '/></g>
+	<path stroke='rgb(  0,   0,   0)'  d='M297.90,240.61 L211.77,138.52  '/></g>
 	</g>
-	<g id="gnuplot_plot_6" ><title>gnuplot_plot_6</title>
+	<g id="gnuplot_plot_7" ><title>gnuplot_plot_7</title>
 <g fill="none" color="#FFFFFF" stroke="rgb(  0,   0,   0)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(  0,   0,   0)'  d='M297.90,240.61 L474.62,146.25  '/></g>
+	<path stroke='rgb(  0,   0,   0)'  d='M297.90,240.61 L127.62,346.19  '/></g>
 	</g>
-	<g id="gnuplot_plot_7" ><title>gnuplot_plot_7</title>
+	<g id="gnuplot_plot_8" ><title>gnuplot_plot_8</title>
 <g fill="none" color="#FFFFFF" stroke="rgb(  0,   0,   0)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(  0,   0,   0)'  d='M297.90,240.61 L499.22,330.25  '/></g>
+	<path stroke='rgb(  0,   0,   0)'  d='M297.90,240.61 L88.30,308.72  '/></g>
 	</g>
-	<g id="gnuplot_plot_8" ><title>gnuplot_plot_8</title>
+	<g id="gnuplot_plot_9" ><title>gnuplot_plot_9</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(  0,   0,   0)'  d='M297.90,240.61 L257.22,222.51  '/></g>
+	<path stroke='rgb(  0,   0,   0)'  d='M297.90,240.61 L340.24,226.86  '/></g>
 	</g>
-<g fill="none" color="#FFFFFF" stroke="rgb(  0,   0,   0)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g id="gnuplot_plot_10" ><title>gnuplot_plot_10</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(297.90,262.51)" stroke="none" fill="black" font-family="Courier" font-size="12.00"  text-anchor="middle">
+		<text xml:space="preserve"><tspan font-family="Courier"  xml:space="preserve">10:39:42  </tspan></text>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_11" ><title>gnuplot_plot_11</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(297.90,280.51)" stroke="none" fill="black" font-family="Courier" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >10:39:42AM</tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="#FFFFFF" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>

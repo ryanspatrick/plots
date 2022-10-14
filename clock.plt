@@ -16,18 +16,18 @@ set parametric
 set trange [0:1]
 
 $HOURS << EOD
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
+1:2160
+2:2161
+3:2162
+4:2163
+5:2164
+6:2165
+7:2166
+8:2167
+9:2168
+10:2169
+11:216A
+12:216B
 EOD
 
 $MINUTES << EOD
@@ -94,7 +94,7 @@ $MINUTES << EOD
 EOD
 
 $TIME << EOD
-05:10:19
+10:39:42
 EOD
 
 mymod( v , m ) = ( v > m )?( v - m ):( v )
@@ -105,11 +105,17 @@ hours(h,m,s) = angle( h + m / 60.0 + s / 3600.0 , 12 )
 minutes(h,m,s) = angle( m + s / 60.0 , 60 )
 seconds(h,m,s) = angle( s , 60 )
 
+twelve( h ) = ( h == 0 )?( 12 ):( ( h > 12 )?( h - 12 ):( h ))
+m( h ) = ( h < 13 )?( "AM" ):( "PM" )
+
 plot cos(t*2.0*pi),sin(t*2.0*pi) with lines lc rgbcolor "black" notitle,\
 	$HOURS using (0.8*cos(angle($1,12))):(0.8*sin(angle($1,12))):1 with labels font "Courier,24" notitle,\
+	"" using (0.65*cos(angle($1,12))):(0.65*sin(angle($1,12))):(sprintf("\U+%s" , stringcolumn(2))) with labels font "Courier,18" notitle,\
 	"" using (0.95*cos(angle($1,12))):(0.95*sin(angle($1,12))) with points pt 6 lc rgbcolor "black" ps 1 notitle,\
 	$MINUTES using (0.95*cos(angle($1,60))):(0.95*sin(angle($1,60))) with points pt 6 ps 0.5 lc rgbcolor "black" notitle,\
 	$TIME using (0):(0):(0.6*cos(hours($1,$2,$3))):(0.6*sin(hours($1,$2,$3))) with vectors nohead lc rgbcolor "black" lw 3 notitle,\
 	"" using (0):(0):(0.9*cos(minutes($1,$2,$3))):(0.9*sin(minutes($1,$2,$3))) with vectors nohead lc rgbcolor "black" lw 2 notitle,\
 	"" using (0):(0):(0.99*cos(seconds($1,$2,$3))):(0.99*sin(seconds($1,$2,$3))) with vectors nohead lc rgbcolor "black" lw 1 notitle,\
-	"" using (0):(0):(0.2*cos(pi+seconds($1,$2,$3))):(0.2*sin(pi+seconds($1,$2,$3))) with vectors nohead lc rgbcolor "black" lw 1 notitle
+	"" using (0):(0):(0.2*cos(pi+seconds($1,$2,$3))):(0.2*sin(pi+seconds($1,$2,$3))) with vectors nohead lc rgbcolor "black" lw 1 notitle,\
+	"" using (0):(0):(sprintf( "%02d:%02d:%02d  " , $1 , $2 , $3 )) with labels offset 0,-1 notitle,\
+	"" using (0):(0):(sprintf( "%02d:%02d:%02d%s" , twelve($1) , $2 , $3 , m($1) )) with labels offset 0,-2 notitle
