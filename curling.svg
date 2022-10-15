@@ -1320,7 +1320,19 @@ Z 	</g>
 		L302.98,265.15 L303.10,264.88 L303.19,264.61 L303.28,264.33 L303.34,264.04 L303.40,263.76 L303.43,263.47 L303.46,263.18
 		L303.47,262.88 Z  '/></g>
 	</g>
-	<g id="gnuplot_plot_15" ><title>Red Stone</title>
+	<g id="gnuplot_plot_15" ><title>Pin</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<use xlink:href='#gpPt6' transform='translate(297.90,262.88) scale(0.45)' color='rgb(  0,   0,   0)'/>
+	<use xlink:href='#gpPt6' transform='translate(297.90,262.88) scale(0.45)' color='rgb(  0,   0,   0)'/>
+	<use xlink:href='#gpPt6' transform='translate(297.90,262.88) scale(0.45)' color='rgb(  0,   0,   0)'/>
+	<use xlink:href='#gpPt6' transform='translate(297.90,262.88) scale(0.45)' color='rgb(  0,   0,   0)'/>
+	<use xlink:href='#gpPt6' transform='translate(297.90,262.88) scale(0.45)' color='rgb(  0,   0,   0)'/>
+	<use xlink:href='#gpPt6' transform='translate(297.90,262.88) scale(0.45)' color='rgb(  0,   0,   0)'/>
+	<use xlink:href='#gpPt6' transform='translate(297.90,262.88) scale(0.45)' color='rgb(  0,   0,   0)'/>
+	<use xlink:href='#gpPt6' transform='translate(297.90,262.88) scale(0.45)' color='rgb(  0,   0,   0)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_16" ><title>Red Stone</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -1540,7 +1552,7 @@ Z 	</g>
 		L258.32,201.79 L258.43,201.54 L258.52,201.29 L258.59,201.03 L258.65,200.78 L258.70,200.51 L258.74,200.25 L258.76,199.98
 		L258.77,199.71 Z  '/></g>
 	</g>
-	<g id="gnuplot_plot_16" ><title>Red Stone</title>
+	<g id="gnuplot_plot_17" ><title>Red Stone</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -1800,7 +1812,7 @@ Z 	</g>
 		L256.77,201.10 L256.84,200.93 L256.90,200.77 L256.95,200.59 L256.99,200.42 L257.02,200.25 L257.05,200.07 L257.06,199.89
 		L257.07,199.71 Z  '/></g>
 	</g>
-	<g id="gnuplot_plot_17" ><title>Yellow Stone</title>
+	<g id="gnuplot_plot_18" ><title>Yellow Stone</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -2020,7 +2032,7 @@ Z 	</g>
 		L311.44,272.42 L311.55,272.17 L311.64,271.92 L311.71,271.66 L311.77,271.41 L311.82,271.14 L311.86,270.88 L311.88,270.61
 		L311.89,270.34 Z  '/></g>
 	</g>
-	<g id="gnuplot_plot_18" ><title>Yellow Stone</title>
+	<g id="gnuplot_plot_19" ><title>Yellow Stone</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
