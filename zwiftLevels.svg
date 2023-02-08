@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="windows-1252"  standalone="no"?>
+<svg 
+ viewBox="0 0 600 480"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+
+<title>Gnuplot</title>
+<desc>Produced by GNUPLOT 5.4 patchlevel 4 </desc>
+
+<g id="gnuplot_canvas">
+
+<rect x="0" y="0" width="600" height="480" fill="#ffffff"/>
+<defs>
+
+	<circle id='gpDot' r='0.5' stroke-width='0.5' stroke='currentColor'/>
+	<path id='gpPt0' stroke-width='0.333' stroke='currentColor' d='M-1,0 h2 M0,-1 v2'/>
+	<path id='gpPt1' stroke-width='0.333' stroke='currentColor' d='M-1,-1 L1,1 M1,-1 L-1,1'/>
+	<path id='gpPt2' stroke-width='0.333' stroke='currentColor' d='M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1'/>
+	<rect id='gpPt3' stroke-width='0.333' stroke='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<rect id='gpPt4' stroke-width='0.333' stroke='currentColor' fill='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<circle id='gpPt5' stroke-width='0.333' stroke='currentColor' cx='0' cy='0' r='1'/>
+	<use xlink:href='#gpPt5' id='gpPt6' fill='currentColor' stroke='none'/>
+	<path id='gpPt7' stroke-width='0.333' stroke='currentColor' d='M0,-1.33 L-1.33,0.67 L1.33,0.67 z'/>
+	<use xlink:href='#gpPt7' id='gpPt8' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt7' id='gpPt9' stroke='currentColor' transform='rotate(180)'/>
+	<use xlink:href='#gpPt9' id='gpPt10' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt3' id='gpPt11' stroke='currentColor' transform='rotate(45)'/>
+	<use xlink:href='#gpPt11' id='gpPt12' fill='currentColor' stroke='none'/>
+	<path id='gpPt13' stroke-width='0.333' stroke='currentColor' d='M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z'/>
+	<use xlink:href='#gpPt13' id='gpPt14' fill='currentColor' stroke='none'/>
+	<filter id='textbox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='#FFFFFF' flood-opacity='1' result='bgnd'/>
+	  <feComposite in='SourceGraphic' in2='bgnd' operator='atop'/>
+	</filter>
+	<filter id='greybox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='lightgrey' flood-opacity='1' result='grey'/>
+	  <feComposite in='SourceGraphic' in2='grey' operator='atop'/>
+	</filter>
+</defs>
+<g fill="none" color="#FFFFFF" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,452.46 L543.19,452.46  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,452.46 L48.80,452.46 M543.19,452.46 L537.19,452.46  '/>	<g transform="translate(37.20,455.06)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 1</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,445.32 L543.19,445.32  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,445.32 L48.80,445.32 M543.19,445.32 L537.19,445.32  '/>	<g transform="translate(37.20,447.92)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 2</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,438.18 L543.19,438.18  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,438.18 L48.80,438.18 M543.19,438.18 L537.19,438.18  '/>	<g transform="translate(37.20,440.78)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 3</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,431.04 L543.19,431.04  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,431.04 L48.80,431.04 M543.19,431.04 L537.19,431.04  '/>	<g transform="translate(37.20,433.64)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 4</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,423.90 L543.19,423.90  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,423.90 L48.80,423.90 M543.19,423.90 L537.19,423.90  '/>	<g transform="translate(37.20,426.50)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 5</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,416.76 L543.19,416.76  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,416.76 L48.80,416.76 M543.19,416.76 L537.19,416.76  '/>	<g transform="translate(37.20,419.36)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 6</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,409.61 L543.19,409.61  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,409.61 L48.80,409.61 M543.19,409.61 L537.19,409.61  '/>	<g transform="translate(37.20,412.21)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 7</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,402.47 L543.19,402.47  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,402.47 L48.80,402.47 M543.19,402.47 L537.19,402.47  '/>	<g transform="translate(37.20,405.07)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 8</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,395.33 L543.19,395.33  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,395.33 L48.80,395.33 M543.19,395.33 L537.19,395.33  '/>	<g transform="translate(37.20,397.93)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 9</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,388.19 L543.19,388.19  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,388.19 L48.80,388.19 M543.19,388.19 L537.19,388.19  '/>	<g transform="translate(37.20,390.79)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 10</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,381.05 L543.19,381.05  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,381.05 L48.80,381.05 M543.19,381.05 L537.19,381.05  '/>	<g transform="translate(37.20,383.65)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 11</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,373.91 L543.19,373.91  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,373.91 L48.80,373.91 M543.19,373.91 L537.19,373.91  '/>	<g transform="translate(37.20,376.51)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 12</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,366.77 L543.19,366.77  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,366.77 L48.80,366.77 M543.19,366.77 L537.19,366.77  '/>	<g transform="translate(37.20,369.37)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 13</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,359.63 L543.19,359.63  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,359.63 L48.80,359.63 M543.19,359.63 L537.19,359.63  '/>	<g transform="translate(37.20,362.23)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 14</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,352.49 L543.19,352.49  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,352.49 L48.80,352.49 M543.19,352.49 L537.19,352.49  '/>	<g transform="translate(37.20,355.09)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 15</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,345.35 L543.19,345.35  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,345.35 L48.80,345.35 M543.19,345.35 L537.19,345.35  '/>	<g transform="translate(37.20,347.95)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 16</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,338.21 L543.19,338.21  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,338.21 L48.80,338.21 M543.19,338.21 L537.19,338.21  '/>	<g transform="translate(37.20,340.81)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 17</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,331.07 L543.19,331.07  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,331.07 L48.80,331.07 M543.19,331.07 L537.19,331.07  '/>	<g transform="translate(37.20,333.67)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 18</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,323.92 L543.19,323.92  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,323.92 L48.80,323.92 M543.19,323.92 L537.19,323.92  '/>	<g transform="translate(37.20,326.52)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 19</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,316.78 L543.19,316.78  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,316.78 L48.80,316.78 M543.19,316.78 L537.19,316.78  '/>	<g transform="translate(37.20,319.38)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 20</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,309.64 L543.19,309.64  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,309.64 L48.80,309.64 M543.19,309.64 L537.19,309.64  '/>	<g transform="translate(37.20,312.24)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 21</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,302.50 L543.19,302.50  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,302.50 L48.80,302.50 M543.19,302.50 L537.19,302.50  '/>	<g transform="translate(37.20,305.10)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 22</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,295.36 L543.19,295.36  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,295.36 L48.80,295.36 M543.19,295.36 L537.19,295.36  '/>	<g transform="translate(37.20,297.96)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 23</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,288.22 L543.19,288.22  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,288.22 L48.80,288.22 M543.19,288.22 L537.19,288.22  '/>	<g transform="translate(37.20,290.82)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 24</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,281.08 L543.19,281.08  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,281.08 L48.80,281.08 M543.19,281.08 L537.19,281.08  '/>	<g transform="translate(37.20,283.68)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 25</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,273.94 L543.19,273.94  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,273.94 L48.80,273.94 M543.19,273.94 L537.19,273.94  '/>	<g transform="translate(37.20,276.54)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 26</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,266.80 L543.19,266.80  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,266.80 L48.80,266.80 M543.19,266.80 L537.19,266.80  '/>	<g transform="translate(37.20,269.40)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 27</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,259.66 L543.19,259.66  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,259.66 L48.80,259.66 M543.19,259.66 L537.19,259.66  '/>	<g transform="translate(37.20,262.26)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 28</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,252.52 L543.19,252.52  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,252.52 L48.80,252.52 M543.19,252.52 L537.19,252.52  '/>	<g transform="translate(37.20,255.12)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 29</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,245.38 L543.19,245.38  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,245.38 L48.80,245.38 M543.19,245.38 L537.19,245.38  '/>	<g transform="translate(37.20,247.98)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 30</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,238.23 L543.19,238.23  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,238.23 L48.80,238.23 M543.19,238.23 L537.19,238.23  '/>	<g transform="translate(37.20,240.83)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 31</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,231.09 L543.19,231.09  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,231.09 L48.80,231.09 M543.19,231.09 L537.19,231.09  '/>	<g transform="translate(37.20,233.69)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 32</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,223.95 L543.19,223.95  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,223.95 L48.80,223.95 M543.19,223.95 L537.19,223.95  '/>	<g transform="translate(37.20,226.55)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 33</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,216.81 L543.19,216.81  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,216.81 L48.80,216.81 M543.19,216.81 L537.19,216.81  '/>	<g transform="translate(37.20,219.41)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 34</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,209.67 L543.19,209.67  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,209.67 L48.80,209.67 M543.19,209.67 L537.19,209.67  '/>	<g transform="translate(37.20,212.27)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 35</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,202.53 L543.19,202.53  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,202.53 L48.80,202.53 M543.19,202.53 L537.19,202.53  '/>	<g transform="translate(37.20,205.13)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 36</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,195.39 L543.19,195.39  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,195.39 L48.80,195.39 M543.19,195.39 L537.19,195.39  '/>	<g transform="translate(37.20,197.99)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 37</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,188.25 L543.19,188.25  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,188.25 L48.80,188.25 M543.19,188.25 L537.19,188.25  '/>	<g transform="translate(37.20,190.85)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 38</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,181.11 L543.19,181.11  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,181.11 L48.80,181.11 M543.19,181.11 L537.19,181.11  '/>	<g transform="translate(37.20,183.71)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 39</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,173.97 L543.19,173.97  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,173.97 L48.80,173.97 M543.19,173.97 L537.19,173.97  '/>	<g transform="translate(37.20,176.57)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 40</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,166.83 L543.19,166.83  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,166.83 L48.80,166.83 M543.19,166.83 L537.19,166.83  '/>	<g transform="translate(37.20,169.43)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 41</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,159.69 L543.19,159.69  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,159.69 L48.80,159.69 M543.19,159.69 L537.19,159.69  '/>	<g transform="translate(37.20,162.29)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 42</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,152.54 L543.19,152.54  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,152.54 L48.80,152.54 M543.19,152.54 L537.19,152.54  '/>	<g transform="translate(37.20,155.14)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 43</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,145.40 L543.19,145.40  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,145.40 L48.80,145.40 M543.19,145.40 L537.19,145.40  '/>	<g transform="translate(37.20,148.00)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 44</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,138.26 L543.19,138.26  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,138.26 L48.80,138.26 M543.19,138.26 L537.19,138.26  '/>	<g transform="translate(37.20,140.86)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 45</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,131.12 L543.19,131.12  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,131.12 L48.80,131.12 M543.19,131.12 L537.19,131.12  '/>	<g transform="translate(37.20,133.72)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 46</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,123.98 L543.19,123.98  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,123.98 L48.80,123.98 M543.19,123.98 L537.19,123.98  '/>	<g transform="translate(37.20,126.58)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 47</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,116.84 L543.19,116.84  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,116.84 L48.80,116.84 M543.19,116.84 L537.19,116.84  '/>	<g transform="translate(37.20,119.44)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 48</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,109.70 L543.19,109.70  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,109.70 L48.80,109.70 M543.19,109.70 L537.19,109.70  '/>	<g transform="translate(37.20,112.30)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 49</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,102.56 L543.19,102.56  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,102.56 L48.80,102.56 M543.19,102.56 L537.19,102.56  '/>	<g transform="translate(37.20,105.16)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 50</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,95.42 L543.19,95.42  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,95.42 L48.80,95.42 M543.19,95.42 L537.19,95.42  '/>	<g transform="translate(37.20,98.02)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 51</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,88.28 L543.19,88.28  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,88.28 L48.80,88.28 M543.19,88.28 L537.19,88.28  '/>	<g transform="translate(37.20,90.88)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 52</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,81.14 L543.19,81.14  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,81.14 L48.80,81.14 M543.19,81.14 L537.19,81.14  '/>	<g transform="translate(37.20,83.74)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 53</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,74.00 L543.19,74.00  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,74.00 L48.80,74.00 M543.19,74.00 L537.19,74.00  '/>	<g transform="translate(37.20,76.60)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 54</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,66.85 L543.19,66.85  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,66.85 L48.80,66.85 M543.19,66.85 L537.19,66.85  '/>	<g transform="translate(37.20,69.45)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 55</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,59.71 L543.19,59.71  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,59.71 L48.80,59.71 M543.19,59.71 L537.19,59.71  '/>	<g transform="translate(37.20,62.31)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 56</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,52.57 L543.19,52.57  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,52.57 L48.80,52.57 M543.19,52.57 L537.19,52.57  '/>	<g transform="translate(37.20,55.17)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 57</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,45.43 L543.19,45.43  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,45.43 L48.80,45.43 M543.19,45.43 L537.19,45.43  '/>	<g transform="translate(37.20,48.03)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 58</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,38.29 L543.19,38.29  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,38.29 L48.80,38.29 M543.19,38.29 L537.19,38.29  '/>	<g transform="translate(37.20,40.89)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 59</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M42.80,31.15 L543.19,31.15  '/></g>
+<g fill="none" color="black" stroke="rgb(190, 190, 190)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,31.15 L48.80,31.15 M543.19,31.15 L537.19,31.15  '/>	<g transform="translate(37.20,33.75)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="end">
+		<text><tspan font-family="Courier" > 60</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,452.46 L537.19,452.46  '/>	<g transform="translate(548.79,455.06)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 1</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,445.32 L537.19,445.32  '/>	<g transform="translate(548.79,447.92)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 2</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,438.18 L537.19,438.18  '/>	<g transform="translate(548.79,440.78)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 3</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,431.04 L537.19,431.04  '/>	<g transform="translate(548.79,433.64)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 4</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,423.90 L537.19,423.90  '/>	<g transform="translate(548.79,426.50)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 5</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,416.76 L537.19,416.76  '/>	<g transform="translate(548.79,419.36)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 6</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,409.61 L537.19,409.61  '/>	<g transform="translate(548.79,412.21)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 7</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,402.47 L537.19,402.47  '/>	<g transform="translate(548.79,405.07)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 8</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,395.33 L537.19,395.33  '/>	<g transform="translate(548.79,397.93)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 9</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,388.19 L537.19,388.19  '/>	<g transform="translate(548.79,390.79)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 10</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,381.05 L537.19,381.05  '/>	<g transform="translate(548.79,383.65)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 11</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,373.91 L537.19,373.91  '/>	<g transform="translate(548.79,376.51)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 12</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,366.77 L537.19,366.77  '/>	<g transform="translate(548.79,369.37)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 13</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,359.63 L537.19,359.63  '/>	<g transform="translate(548.79,362.23)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 14</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,352.49 L537.19,352.49  '/>	<g transform="translate(548.79,355.09)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 15</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,345.35 L537.19,345.35  '/>	<g transform="translate(548.79,347.95)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 16</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,338.21 L537.19,338.21  '/>	<g transform="translate(548.79,340.81)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 17</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,331.07 L537.19,331.07  '/>	<g transform="translate(548.79,333.67)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 18</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,323.92 L537.19,323.92  '/>	<g transform="translate(548.79,326.52)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 19</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,316.78 L537.19,316.78  '/>	<g transform="translate(548.79,319.38)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 20</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,309.64 L537.19,309.64  '/>	<g transform="translate(548.79,312.24)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 21</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,302.50 L537.19,302.50  '/>	<g transform="translate(548.79,305.10)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 22</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,295.36 L537.19,295.36  '/>	<g transform="translate(548.79,297.96)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 23</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,288.22 L537.19,288.22  '/>	<g transform="translate(548.79,290.82)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 24</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,281.08 L537.19,281.08  '/>	<g transform="translate(548.79,283.68)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 25</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,273.94 L537.19,273.94  '/>	<g transform="translate(548.79,276.54)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 26</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,266.80 L537.19,266.80  '/>	<g transform="translate(548.79,269.40)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 27</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,259.66 L537.19,259.66  '/>	<g transform="translate(548.79,262.26)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 28</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,252.52 L537.19,252.52  '/>	<g transform="translate(548.79,255.12)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 29</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,245.38 L537.19,245.38  '/>	<g transform="translate(548.79,247.98)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 30</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,238.23 L537.19,238.23  '/>	<g transform="translate(548.79,240.83)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 31</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,231.09 L537.19,231.09  '/>	<g transform="translate(548.79,233.69)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 32</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,223.95 L537.19,223.95  '/>	<g transform="translate(548.79,226.55)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 33</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,216.81 L537.19,216.81  '/>	<g transform="translate(548.79,219.41)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 34</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,209.67 L537.19,209.67  '/>	<g transform="translate(548.79,212.27)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 35</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,202.53 L537.19,202.53  '/>	<g transform="translate(548.79,205.13)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 36</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,195.39 L537.19,195.39  '/>	<g transform="translate(548.79,197.99)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 37</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,188.25 L537.19,188.25  '/>	<g transform="translate(548.79,190.85)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 38</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,181.11 L537.19,181.11  '/>	<g transform="translate(548.79,183.71)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 39</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,173.97 L537.19,173.97  '/>	<g transform="translate(548.79,176.57)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 40</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,166.83 L537.19,166.83  '/>	<g transform="translate(548.79,169.43)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 41</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,159.69 L537.19,159.69  '/>	<g transform="translate(548.79,162.29)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 42</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,152.54 L537.19,152.54  '/>	<g transform="translate(548.79,155.14)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 43</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,145.40 L537.19,145.40  '/>	<g transform="translate(548.79,148.00)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 44</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,138.26 L537.19,138.26  '/>	<g transform="translate(548.79,140.86)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 45</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,131.12 L537.19,131.12  '/>	<g transform="translate(548.79,133.72)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 46</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,123.98 L537.19,123.98  '/>	<g transform="translate(548.79,126.58)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 47</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,116.84 L537.19,116.84  '/>	<g transform="translate(548.79,119.44)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 48</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,109.70 L537.19,109.70  '/>	<g transform="translate(548.79,112.30)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 49</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,102.56 L537.19,102.56  '/>	<g transform="translate(548.79,105.16)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 50</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,95.42 L537.19,95.42  '/>	<g transform="translate(548.79,98.02)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 51</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,88.28 L537.19,88.28  '/>	<g transform="translate(548.79,90.88)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 52</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,81.14 L537.19,81.14  '/>	<g transform="translate(548.79,83.74)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 53</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,74.00 L537.19,74.00  '/>	<g transform="translate(548.79,76.60)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 54</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,66.85 L537.19,66.85  '/>	<g transform="translate(548.79,69.45)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 55</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,59.71 L537.19,59.71  '/>	<g transform="translate(548.79,62.31)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 56</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,52.57 L537.19,52.57  '/>	<g transform="translate(548.79,55.17)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 57</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,45.43 L537.19,45.43  '/>	<g transform="translate(548.79,48.03)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 58</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,38.29 L537.19,38.29  '/>	<g transform="translate(548.79,40.89)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 59</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M543.19,31.15 L537.19,31.15  '/>	<g transform="translate(548.79,33.75)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" > 60</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,24.01 L42.80,459.60 L543.19,459.60 L543.19,24.01 L42.80,24.01 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(12.80,241.81) rotate(270)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >Level</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(579.79,241.81) rotate(270)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >Level</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(292.99,474.20)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >XP</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(292.99,14.61)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >XP</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>Progression of Levels</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(190, 190, 190)'  d='M72.23,452.46 L72.82,445.32 L73.41,438.18 L74.00,431.04 L74.59,423.90 L75.18,416.76 L76.36,409.61 L78.12,402.47
+		L79.89,395.33 L81.65,388.19 L83.42,381.05 L85.77,373.91 L88.72,366.77 L91.66,359.63 L94.61,352.49 L98.14,345.35
+		L101.67,338.21 L105.20,331.07 L108.73,323.92 L113.44,316.78 L118.15,309.64 L124.04,302.50 L127.57,295.36 L131.10,288.22
+		L136.99,281.08 L143.47,273.94 L148.76,266.80 L154.65,259.66 L160.54,252.52 L172.31,245.38 L178.20,238.23 L184.09,231.09
+		L189.97,223.95 L201.75,216.81 L207.63,209.67 L219.41,202.53 L225.30,195.39 L237.07,188.25 L242.96,181.11 L254.73,173.97
+		L266.50,166.83 L272.39,159.69 L284.16,152.54 L295.94,145.40 L307.71,138.26 L319.49,131.12 L331.26,123.98 L343.03,116.84
+		L354.81,109.70 L366.58,102.56 L378.36,95.42 L390.13,88.28 L401.90,81.14 L413.68,74.00 L425.45,66.85 L443.11,59.71
+		L460.77,52.57 L478.43,45.43 L496.09,38.29 L513.76,31.15  '/></g>
+	</g>
+	<g id="gnuplot_plot_2" ><title>XP for Levels</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(70.39,454.30) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >0</tspan></text>
+	</g>
+	<g transform="translate(70.98,447.16) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >1000</tspan></text>
+	</g>
+	<g transform="translate(71.57,440.02) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >2000</tspan></text>
+	</g>
+	<g transform="translate(72.16,432.88) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >3000</tspan></text>
+	</g>
+	<g transform="translate(72.75,425.74) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >4000</tspan></text>
+	</g>
+	<g transform="translate(73.34,418.60) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >5000</tspan></text>
+	</g>
+	<g transform="translate(74.52,411.45) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >7000</tspan></text>
+	</g>
+	<g transform="translate(76.28,404.31) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >10000</tspan></text>
+	</g>
+	<g transform="translate(78.05,397.17) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >13000</tspan></text>
+	</g>
+	<g transform="translate(79.81,390.03) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >16000</tspan></text>
+	</g>
+	<g transform="translate(81.58,382.89) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >19000</tspan></text>
+	</g>
+	<g transform="translate(83.93,375.75) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >23000</tspan></text>
+	</g>
+	<g transform="translate(86.88,368.61) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >28000</tspan></text>
+	</g>
+	<g transform="translate(89.82,361.47) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >33000</tspan></text>
+	</g>
+	<g transform="translate(92.77,354.33) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >38000</tspan></text>
+	</g>
+	<g transform="translate(96.30,347.19) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >44000</tspan></text>
+	</g>
+	<g transform="translate(99.83,340.05) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >50000</tspan></text>
+	</g>
+	<g transform="translate(103.36,332.91) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >56000</tspan></text>
+	</g>
+	<g transform="translate(106.89,325.76) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >62000</tspan></text>
+	</g>
+	<g transform="translate(111.60,318.62) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >70000</tspan></text>
+	</g>
+	<g transform="translate(116.31,311.48) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >78000</tspan></text>
+	</g>
+	<g transform="translate(122.20,304.34) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >88000</tspan></text>
+	</g>
+	<g transform="translate(125.73,297.20) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >94000</tspan></text>
+	</g>
+	<g transform="translate(129.26,290.06) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >100000</tspan></text>
+	</g>
+	<g transform="translate(135.15,282.92) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >110000</tspan></text>
+	</g>
+	<g transform="translate(141.63,275.78) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >121000</tspan></text>
+	</g>
+	<g transform="translate(146.92,268.64) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >130000</tspan></text>
+	</g>
+	<g transform="translate(152.81,261.50) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >140000</tspan></text>
+	</g>
+	<g transform="translate(158.70,254.36) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >150000</tspan></text>
+	</g>
+	<g transform="translate(170.47,247.22) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >170000</tspan></text>
+	</g>
+	<g transform="translate(176.36,240.07) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >180000</tspan></text>
+	</g>
+	<g transform="translate(182.25,232.93) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >190000</tspan></text>
+	</g>
+	<g transform="translate(188.13,225.79) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >200000</tspan></text>
+	</g>
+	<g transform="translate(199.91,218.65) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >220000</tspan></text>
+	</g>
+	<g transform="translate(205.79,211.51) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >230000</tspan></text>
+	</g>
+	<g transform="translate(217.57,204.37) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >250000</tspan></text>
+	</g>
+	<g transform="translate(223.46,197.23) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >260000</tspan></text>
+	</g>
+	<g transform="translate(235.23,190.09) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >280000</tspan></text>
+	</g>
+	<g transform="translate(241.12,182.95) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >290000</tspan></text>
+	</g>
+	<g transform="translate(252.89,175.81) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >310000</tspan></text>
+	</g>
+	<g transform="translate(264.66,168.67) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >330000</tspan></text>
+	</g>
+	<g transform="translate(270.55,161.53) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >340000</tspan></text>
+	</g>
+	<g transform="translate(282.32,154.38) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >360000</tspan></text>
+	</g>
+	<g transform="translate(294.10,147.24) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >380000</tspan></text>
+	</g>
+	<g transform="translate(305.87,140.10) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >400000</tspan></text>
+	</g>
+	<g transform="translate(317.65,132.96) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >420000</tspan></text>
+	</g>
+	<g transform="translate(329.42,125.82) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >440000</tspan></text>
+	</g>
+	<g transform="translate(341.19,118.68) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >460000</tspan></text>
+	</g>
+	<g transform="translate(352.97,111.54) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >480000</tspan></text>
+	</g>
+	<g transform="translate(364.74,104.40) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >500000</tspan></text>
+	</g>
+	<g transform="translate(376.52,97.26) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >520000</tspan></text>
+	</g>
+	<g transform="translate(388.29,90.12) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >540000</tspan></text>
+	</g>
+	<g transform="translate(400.06,82.98) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >560000</tspan></text>
+	</g>
+	<g transform="translate(411.84,75.84) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >580000</tspan></text>
+	</g>
+	<g transform="translate(423.61,68.69) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >600000</tspan></text>
+	</g>
+	<g transform="translate(441.27,61.55) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >630000</tspan></text>
+	</g>
+	<g transform="translate(458.93,54.41) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >660000</tspan></text>
+	</g>
+	<g transform="translate(476.59,47.27) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >690000</tspan></text>
+	</g>
+	<g transform="translate(494.25,40.13) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >720000</tspan></text>
+	</g>
+	<g transform="translate(511.92,32.99) rotate(45)" stroke="none" fill="rgb(190,190,190)" font-family="Courier" font-size="8.00"  text-anchor="start">
+		<text><tspan font-family="Courier" >750000</tspan></text>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_3" ><title>Current Status</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<use xlink:href='#gpPt11' transform='translate(465.68,50.59) scale(3.00)' color='rgb(  0,   0,   0)'/>
+</g>
+	</g>
+	<g id="gnuplot_plot_4" ><title>Level</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(465.68,29.19)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="middle">
+		<text xml:space="preserve"><tspan font-family="Courier"  xml:space="preserve">Level  57</tspan></text>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_5" ><title>XP</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(465.68,41.19)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >668330XP</tspan></text>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_6" ><title>Percentage Complete</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(465.68,65.19)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >27.7667%</tspan></text>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_7" ><title>Remaining XP</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(465.68,77.19)" stroke="none" fill="black" font-family="Courier" font-size="8.00"  text-anchor="middle">
+		<text><tspan font-family="Courier" >T-21670XP</tspan></text>
+	</g>
+</g>
+	</g>
+<g fill="none" color="#FFFFFF" stroke="black" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M42.80,24.01 L42.80,459.60 L543.19,459.60 L543.19,24.01 L42.80,24.01 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+</g>
+</svg>
+
