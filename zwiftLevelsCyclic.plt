@@ -4,9 +4,10 @@ set terminal svg dynamic font "Courier,8" linewidth 1 background "white"
 # Data is tab-delimited
 set datafile sep '\t'
 
-# The output file is zwiftLevels.svg
+# The output file is zwiftLevelsCyclic.svg
 set output "zwiftLevelsCyclic.svg"
 
+# Account for a radius allowing a circumference of 750,000 (XP)
 set xrange [-119367:119367]
 set yrange [-119367:119367]
 unset border
@@ -18,7 +19,7 @@ unset key
 
 # The specific number of XP earned
 $XP << EOD
-668330
+669930
 EOD
 
 # Levels in number, min XP, max XP order
@@ -98,8 +99,11 @@ radius( xp ) = (maxXP( level( xp ) ) / ( 2.0 * pi ))
 theta( xp ) = ( xp - minXP( level( xp ) ) ) / ( maxXP( level( xp ) ) - minXP( level( xp ) ) )
 xCoord( xp ) = radius( xp ) * cos( angle( theta( xp ) ) )
 yCoord( xp ) = radius( xp ) * sin( angle( theta( xp ) ) )
+
+# print v if m divides v, empty string otherwise
 even( v , m ) = ( v * 1.0 / m == int( v * 1.0 / m ) )?( sprintf( "% 2d" , v ) ):( "" )
 
+# arcs have to be plotted in a counterclockwise direction with 0 being due east
 plot $XP using (0):(0):(minXP(level($1)-1)/(2.0*pi)) with circles lc rgbcolor "black" fs solid noborder title "Progress",\
 	"" using (0):(0):(minXP(level($1))/(2.0*pi)):(mymod(-270-theta($1)*360,360)):(90) with circles lc rgbcolor "black" fs solid noborder title "Progress",\
 	$LEVELS using (0):(0):(($3/(2.0*pi))) with circles lc rgbcolor "gray" lw 0.5 title "Levels",\
