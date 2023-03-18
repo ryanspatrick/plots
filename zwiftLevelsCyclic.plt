@@ -1,3 +1,8 @@
+# The specific number of XP earned
+$XP << EOD
+750000
+EOD
+
 # Generate an SVG file with gnuplot
 set terminal svg dynamic enhanced font "Courier,8" linewidth 1 background "white"
 
@@ -8,8 +13,6 @@ set datafile sep '\t'
 set output "zwiftLevelsCyclic.svg"
 
 # Account for a radius allowing a circumference of 750,000 (XP)
-#set xrange [-3024:3024]
-#set yrange [-3024:3024]
 set xrange [-119367:119367]
 set yrange [-119367:119367]
 unset border
@@ -18,12 +21,6 @@ set size square
 unset xtics
 unset ytics
 unset key
-
-#714090
-# The specific number of XP earned
-$XP << EOD
-750000
-EOD
 
 # Levels in number, min XP, max XP order
 $LEVELS << EOD
